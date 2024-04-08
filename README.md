@@ -3,6 +3,7 @@
 I am Gujan Kawale, an enthusiast working on some projects.
 
 I am currently in third-year Undergrad pursuing Computer Science from Pune University.
+![](https://komarev.com/ghpvc/?username=gd2811&base=100)
 
 ## 📩Connect with me -
 
